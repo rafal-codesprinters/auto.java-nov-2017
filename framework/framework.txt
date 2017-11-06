@@ -1,0 +1,5 @@
+Page Object Pattern
+Logging
+Ability to switch browsers
+Example GRID
+Test configured in test.properties
